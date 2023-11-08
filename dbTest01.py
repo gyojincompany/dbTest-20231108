@@ -24,6 +24,7 @@ print(rows)
 print(rows[1])
 
 cur.close()
+conn.close()
 
 
 
